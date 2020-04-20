@@ -1,5 +1,6 @@
 <?php
 
+//conta a quantidade de palavras em uma string
     $txt = "Hello World!";
     $esp = " ";
 
